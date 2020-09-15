@@ -1,0 +1,445 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.first-container{
+	height: 80vh;	 
+	width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                               
+	background: url(images/bg1.jpg) no-repeat center fixed; 
+  	-webkit-background-size: cover;
+  	opacity: 5;
+  	  
+}
+.header img{
+	height:30px;
+	width:100px;
+	margin-top: 20px;
+	margin-left: 35px;
+	
+}
+.sign-btn{
+	position: absolute;
+	margin-top: 25px;
+	left: 90%;
+	background: #e50917;
+	border-radius: 2px;
+	border: none;
+	color: #fff;
+	width: 50px;
+	height: 20px;
+	font-size: 11px;
+	opacity: 0.9;
+	
+}
+.sign-btn:hover{
+	opacity: 1;
+}
+.sub-container{
+	margin-top: 90px;
+
+}
+.unlimited{
+	font-size: 30px;
+	font-weight: 550;
+	color: #fff;
+	font-family: helvetica;
+	text-align: center;
+	
+}
+.watch{
+	padding-top: 10px;
+	font-size: 15px;
+	font-weight: 45;
+	color: #fff;
+	font-family: helvetica;
+	
+	
+}
+.frame{
+  position: relative;
+  height: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 0;
+  margin-right: 100px;
+  align-items: center;
+   
+}
+.text_input {
+  height: 30px;
+  font-size: 10px;
+  border: none;
+  width: 30%;  
+  
+}
+.btn {
+  position: absolute; 
+  height: 32px;
+  background: #e50917;
+  color: white;
+  font-size: 14px;
+  font-weight: 200;
+  font-family: helvetica;
+  opacity: 0.9;
+  border: 0;
+  
+}
+.btn:hover{
+	opacity: 1;
+}
+#ready{
+	color: #fff;
+	font-size: 12px;
+	font-family: helvetica;
+	margin-top: 5px;	
+}
+.second-container{
+	height: 40vh;	 
+	width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ;
+	background-color: black;
+	margin-top: 0;
+	padding-bottom: 50px;
+
+}
+.left{
+	color: #fff;
+	padding-top: 80px;
+	padding-left: 230px;
+	float: left;
+
+}
+.right img{
+	width: 25%;
+	height: 30%;
+	max-width: 25%;
+	float: right;
+	padding-right: 230px;
+	padding-top: 10px;
+}
+.text1{
+	font-size: 25px;
+	font-weight: 200px;
+	font-family: sans-serif;
+	line-height: 1;
+
+}
+.text2{
+	font-size: 15px;
+	font-family: sans-serif;
+	margin-top: 20px;
+	line-height: 0.5;
+}
+.third-container{
+	height: 40vh;	 
+	width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ;
+	background-color: black;
+	margin-top: 0;
+	padding-bottom: 50px;
+
+}
+.left1 img{
+	width: 25%;
+	height: 30%;
+	max-width: 25%;
+	float: left;
+	padding-left: 190px;
+	padding-top: 15px;
+	
+}
+.right1{
+	color: #fff;
+	padding-top: 80px;
+	padding-right: 230px;
+	float: right;
+
+}
+.word1{
+	font-size: 25px;
+	font-weight: 200px;
+	font-family: sans-serif;
+	line-height: 1;
+
+}
+.word2{
+
+	font-size: 15px;
+	font-family: sans-serif;
+	margin-top: 20px;
+	line-height: 0.5;
+
+}
+.fourth-container{
+	height: 40vh;	 
+	width: 100%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ;
+	background-color: black;
+	margin-top: 0;
+	padding-bottom: 50px;
+
+}
+.left2{
+	color: #fff;
+	padding-top: 80px;
+	padding-left: 230px;
+	float: left;
+
+}
+.right2 img{
+	width: 25%;
+	height: 30%;
+	float: right;
+	max-width: 25%;
+	padding-right: 230px;
+	padding-top: 30px;
+}
+
+.sec{
+	width: 100%;
+	height: 100vh;
+	background-color: black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.fifth-container{
+		 
+	width: 50%;  
+	max-width: 80rem;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ;
+	margin: 0 ;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.unlimited {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.accordion-item{
+	color: #fff;
+	background-color: #303030;
+	border: none;
+	margin-bottom: .5rem ;
+	padding: .5rem;
+	box-shadow: .5rem 2px .5rem rgba(0,0,0,.1);
+}
+.accordion-link{
+	color: #fff;
+	font-size: 1.2rem;
+	font-family: sans-serif;
+	text-decoration: none;
+	background-color: #303030 ;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	
+}
+.accordion-link ion-icon{
+	color: #fff;
+	padding: .5rem;
+}
+.accordion-link .remove{
+	display: none;
+}
+.answer{
+	max-height:0;
+	overflow: hidden;
+	position: relative;
+	background-color: #303030;
+	transition: max-height 650ms;
+	
+}
+.answer::before{
+	content: "";
+	position: absolute;
+	width: .6rem;
+	height: 90%;
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%);
+}
+.answer p{
+	color: #fff;
+	font-size: 1.2rem;
+	font-family: sans-serif;
+	
+}
+.accordion-item:target .answer{ /*handle click event using target psuedo class*/
+	max-height: 20rem;
+}
+.accordion-item:target .accordion-link .add{
+	display: none;
+}
+.accordion-item:target .accordion-link .remove{
+	display:block;
+}
+
+.register{
+	background-color: black;
+	color: #fff;
+	padding-bottom: 30px;
+
+}
+.frame1{
+  position: relative;
+  height: 30px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 100px;
+  align-items: center;
+   
+}
+#ready1{
+	color: #fff;
+	font-size: 12px;
+	font-family: helvetica;
+	
+}
+.footer-container{
+	background-color: black;
+	width: 100%;
+	font-family: sans-serif;
+	color: #757575;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding-top: 50px;
+	padding-bottom: 40px;
+
+}
+
+a{
+	text-decoration: none;
+	color: #757575;
+}
+
+.footer-container ul{
+	font-family: sans-serif;
+	font-size: 10px;
+	margin: 0px;  
+	padding: 0 20px;
+	list-style: none;
+	
+}
+.footer-container ul li a{
+	line-height: 20px;
+}
+#footer-que{
+	color: #757575;
+	font-size: 11px;
+}
+.box{
+	background-color: black;
+	position: relative;
+	background-color: black;
+	top: 10%;
+	padding-left: 105px;
+	-webkit-appearance: none;
+  	-moz-appearance: none;
+  	appearance: none;
+  	
+}
+.box select{
+	background-color: black;
+	border: solid 1px #757575;
+	color:#757575;
+	width: 90px;
+	height: 40px; 
+}
+#end{
+	color: #757575;
+	font-family: sans-serif;
+	font-size: 10px;
+	line-height: 5px;
+}
+
+@media (max-width: 1006px){
+	.left{
+		padding-left: 50px;
+	}
+
+	.right img{
+		padding-right: 50px;
+		overflow: hidden;
+		height: 20%;
+	}		
+
+
+}
+@media (max-width: 1006px){
+	.left1 img{
+		padding-left: 50px;
+		overflow: hidden;
+		height: 20%;
+	}	
+	.right1{
+		padding-right: 50px;
+		padding-top:30px;
+	}
+
+}
+@media (max-width: 1006px){
+	.left2{
+		padding-left: 50px;
+	}
+
+	.right2 img{
+		padding-right: 50px;
+		overflow: hidden;
+		height: 20%;
+	}		
+}
+@media (max-width: 526px){
+	.left{
+		padding-left: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+
+	.right img{
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		overflow: hidden;
+		height: 20%;
+	}		
+
+
+}
+@media (max-width: 526px){
+	.left1 img{
+		padding-left: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		overflow: hidden;
+		height: 20%;
+	}	
+	.right1{
+		padding-right: 0px;
+		padding-top:0px;
+		padding-bottom: 0px;
+	}
+
+}
+@media (max-width: 526px){
+	.left2{
+		padding-left: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+
+	.right2 img{
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		overflow: hidden;
+		height: 20%;
+	}		
+}
+@media(max-width: 460px){
+	.sec{
+		height: 50%;
+		
+	}
+}
